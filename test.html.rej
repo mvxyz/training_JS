@@ -1,0 +1,10 @@
+diff a/test.html b/test.html	(rejected hunks)
+@@ -11,6 +11,6 @@
+     Пятый коммит
+     </body>
+     <script>
+-    // Комментарий
++    // Комментарий добавил
+     </script>
+ </html>
+\ No newline at end of file
